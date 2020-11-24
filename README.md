@@ -1,7 +1,8 @@
-### Hi there 👋
+### 
 
 <!--
 **thenyan/thenyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![check dusty](https://cdn.discordapp.com/attachments/773750792301314089/780822614246817822/emote.gif)
