@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![check dusty](https://cdn.discordapp.com/attachments/773750792301314089/780822614246817822/emote.gif)
+
+
+ *it's all about [lahmacun](http://nyan.wtf)*..
