@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/emojis/736029244466921484.gif?size=96&quality=lossless)
+![](https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif)
 
 *[meet dusty](https://dustysupport.tech/)*  
 
